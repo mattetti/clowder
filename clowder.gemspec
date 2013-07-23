@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Clowder::VERSION
   spec.authors       = ["Matt Aimonetti"]
   spec.email         = ["mattaimonetti@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Thread pool}
+  spec.summary       = %q{Because copying and pasting isn't a good, let's reuse Puma's thread pool implementation.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
